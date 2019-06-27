@@ -1,0 +1,8 @@
+Lot,Process001_MachineNo,Process002_MachineNo,Process003_MachineNo,Final,TotalNum,BadNum,CurrentTotalNum
+WB-A015,FT-091,,,1,2,0,2
+WB-A015,FT-091,AT-001,,-1,2,1,2
+WB-B016,LS-061,,,1,10,2,10
+WB-B016,LS-061,FT-086,,-1,8,2,10
+WB-C017,MS-021,,,1,10,2,10
+WB-C017,MS-021,FT-086,,2,8,3,10
+WB-C017,MS-021,FT-086,LS-061,-1,5,1,10
