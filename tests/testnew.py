@@ -14,7 +14,12 @@ class TestBasic(unittest.TestCase):
        # assert self.a == 2, "*Expected:%s, *Actual:%s" % (2, self.a)
         self.assertEqual(self.a, 1)
 
-    def test_fail(self):
+    def test_success(self):
         "This test should fail"
         assert self.a == 1, "*Expected:%s, *Actual:%s" % (1, self.a)
         self.assertEqual(self.a, 1)
+
+    def test_fail(self):
+        "This test should fail"
+        assert self.a == 2, "*Expected:%s, *Actual:%s" % (2, self.a)
+        self.assertEqual(self.a, 2)
