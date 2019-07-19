@@ -13,5 +13,4 @@ manage jenkins > configure system > Jenkins URL > http://140.115.53.39:8080/
 7/16 trying to execute shell with pip install -r requirements.txt  (Success)
 
 7/19 issue:
-You are using pip version 8.1.1, however version 19.1.1 is available.
-You should consider upgrading via the 'pip install --upgrade pip' command.
+python3 -m pytest
