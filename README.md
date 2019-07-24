@@ -1,4 +1,5 @@
 # basictest
+<a href='http://140.115.53.39:8080/job/Basic%20Test/'><img src='http://140.115.53.39:8080/buildStatus/icon?job=Basic+Test'></a>
 
 7/15 trying to pass webhooks to jenkins (success)
 
