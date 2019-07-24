@@ -1,5 +1,6 @@
 import unittest
 
+"""
 import pytest
 def f():
     raise SystemExit(1)
@@ -27,4 +28,3 @@ class TestBasic(unittest.TestCase):
         "This test should fail"
         assert self.a == 1, "*Expected:%s, *Actual:%s" % (1, self.a)
         self.assertEqual(self.a, 1)
-"""
