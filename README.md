@@ -15,3 +15,4 @@ manage jenkins > configure system > Jenkins URL > http://140.115.53.39:8080/
 
 7/19 issue:
 python3 -m pytest
+...
